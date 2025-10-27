@@ -1,0 +1,13 @@
+# Bill of Materials (BOM)
+
+1. ESP32-CAM module – 1 unit  
+2. Raspberry Pi Zero 2 W – 1 unit  
+3. Solenoid Lock (5V or 12V) – 1 unit  
+4. Relay Module (5V logic compatible) – 1 unit  
+5. Two 18650 Li-ion Batteries (3.7V each) – 2 units  
+6. LM2596 Buck Converter – 1 unit  
+7. Jumper Wires (Male–Female) – as needed  
+8. Micro USB Cable – 1 unit  
+9. Breadboard or perfboard – 1 unit  
+10. 10kΩ resistor – 1 unit  
+11. Push button (optional, for reset) – 1 unit
