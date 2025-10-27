@@ -196,4 +196,3 @@ This project is released under the **MIT License** — free to use and modify.
 
 ---
 
-Would you like me to create a **README banner image** (GitHub-style header with components and title) to make it look more professional?
