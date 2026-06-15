@@ -192,7 +192,7 @@ If your face matches the trained model, the Pi sends the unlock signal to ESP32.
 
 ## 📜 License
 
-This project is released under the **MIT License** — free to use and modify.
+This project is released under the **MIT License** — free to use and modiffy.
 
 ---
 
